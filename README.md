@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Siva
+- 👋 Hi, I’m @Siva S
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning new technologies such as Python,AI
 - 💞️ I’m looking to collaborate on IT industry
-- 📫 How to reach me on gmail:sgsaravanan316@gmail.com
+- 📫 How to reach me:sgsaravanan316@gmail.com
 
 <!---
 Siva316/Siva316 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
